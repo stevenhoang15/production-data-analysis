@@ -18,6 +18,5 @@ operating hours, and the key efficiency metric UPPH (Units Per Person Per Hour).
 * Calculation of actual working hours (Time1, Time2, Hours1, Hours2)
 * UPPH tracking by day and by team
 * Output aggregation by product type and month
-* Downtime analysis and root cause categorization
 ### Tool used
-* Microsoft Excel (power query, formulas, pivot tables, conditional formatting)
+* Microsoft Excel (power query, combo chart, formulas, pivot tables, conditional formatting)
