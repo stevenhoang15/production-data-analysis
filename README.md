@@ -19,4 +19,9 @@ operating hours, and the key efficiency metric UPPH (Units Per Person Per Hour).
 * UPPH tracking by day and by team
 * Output aggregation by product type and month
 ### Tool used
-* Microsoft Excel (power query, combo chart, formulas, pivot tables, conditional formatting)
+* Microsoft Excel (power query, combo chart, formulas, pivot tables, conditional formatting, advand formulas) 
+  * Power query: Data extraction, cleaning, and transformation (ETL)
+  * Pivot Table: Multi-dimensional data summarization
+  * Pivot Chart + Slicer: Interactive visual dashboard with dynamic filtering
+  * Conditional Formatting: Visual alerts for KPI thresholds
+  * Excel Formulas: Working hour calculations, UPPH computation
